@@ -1,7 +1,12 @@
+import Navbar from "@/components/Custom_Components/Navbar";
+
 export default function Home() {
   return (
     <div>
-      <h2>Hello Im From Next JS</h2>
+      {/* Navbar */}
+      <header>
+        <Navbar />
+      </header>
     </div>
   );
 }
