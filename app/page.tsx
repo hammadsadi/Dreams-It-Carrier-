@@ -1,3 +1,4 @@
+import Hero from "@/components/Custom_Components/Hero/Hero";
 import Navbar from "@/components/Custom_Components/Navbar";
 
 export default function Home() {
@@ -7,6 +8,8 @@ export default function Home() {
       <header>
         <Navbar />
       </header>
+      {/* Hero */}
+      <Hero />
     </div>
   );
 }
