@@ -19,7 +19,7 @@ const Hero = () => {
           alt="image"
           width={1024}
           height={1920}
-          className="w-full max-h-screen object-contain"
+          className="w-full max-h-screen object-cover"
         />
       </SimpleParallax>
     </div>
