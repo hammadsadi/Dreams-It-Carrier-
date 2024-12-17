@@ -5,7 +5,7 @@ const About = () => {
   return (
     <MySection>
       <MyContainer>
-        <div>
+        <div id="about">
           <p>
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ad
             fugiat tenetur accusantium iure molestias architecto ex amet autem

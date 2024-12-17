@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="flex h-16 items-center justify-between relative">
           <div className="flex-1 md:flex md:items-center md:gap-12">
             <Link className=" text-white flex gap-[1px] items-center" href="/">
-              <span className="text-action-primary text-2xl font-bold">D</span>
+              <span className="text-action-primary text-4xl font-bold">D</span>
               <span>reamms</span>
             </Link>
           </div>

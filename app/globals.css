@@ -7,7 +7,9 @@
   --background: #070D18;
   --foreground: #ededed;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #070D18;
@@ -20,5 +22,6 @@ body {
   background: var(--background);
  font-family: "Roboto", sans-serif;
 }
+
 
 
